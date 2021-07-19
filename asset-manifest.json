@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/HarishK501/harishk501.github.io/static/js/main.ddb25fed.chunk.js",
+    "main.js.map": "/HarishK501/harishk501.github.io/static/js/main.ddb25fed.chunk.js.map",
+    "runtime-main.js": "/HarishK501/harishk501.github.io/static/js/runtime-main.022b10b8.js",
+    "runtime-main.js.map": "/HarishK501/harishk501.github.io/static/js/runtime-main.022b10b8.js.map",
+    "static/js/2.9fccb8a2.chunk.js": "/HarishK501/harishk501.github.io/static/js/2.9fccb8a2.chunk.js",
+    "static/js/2.9fccb8a2.chunk.js.map": "/HarishK501/harishk501.github.io/static/js/2.9fccb8a2.chunk.js.map",
+    "index.html": "/HarishK501/harishk501.github.io/index.html",
+    "static/js/2.9fccb8a2.chunk.js.LICENSE.txt": "/HarishK501/harishk501.github.io/static/js/2.9fccb8a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.022b10b8.js",
+    "static/js/2.9fccb8a2.chunk.js",
+    "static/js/main.ddb25fed.chunk.js"
+  ]
+}
