@@ -204,7 +204,7 @@ footer {
 }
 
 .github-repos {
-    width: 65%;
+    width: 80%;
 }
 
 /* contact-me */
@@ -217,13 +217,13 @@ footer {
 .blog-card {
     padding: 5%;
     border-radius: 20px;
-    background-color: rgb(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.1);
     height: max-content;
     transition: background-color 0.5s ease-out;
 }
 
 .blog-card:hover {
-    background-color: rgb(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.4);
     color: #fdb328;
 }
 
